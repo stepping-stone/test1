@@ -15,4 +15,4 @@
 ``` bash
 curl -v "https://super.user%40stoney-cloud.org:secret@api.example.com/v1/people"
 ```
-> [View in GitHub >][project]
+[View in GitHub >][project]

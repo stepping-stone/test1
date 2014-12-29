@@ -1,4 +1,15 @@
-test1
-=====
+# Title 1
+## Title 2
+### Title 3
 
-This a the first documentation test.
+``` json
+{
+  "id": 4000123,
+  "user": "user@example.com",
+  "location": "https://api.example.com/v1/people/4000123"
+}
+```
+
+``` bash
+curl -v "https://super.user%40stoney-cloud.org:secret@api.example.com/v1/people"
+```

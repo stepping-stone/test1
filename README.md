@@ -15,4 +15,8 @@
 ``` bash
 curl -v "https://super.user%40stoney-cloud.org:secret@api.example.com/v1/people"
 ```
-[View in GitHub >][project]
+
+If your link text has a `>` at the end (for instance: `Continue >`), they show
+up as buttons.
+
+> [View in GitHub >][https://github.com/stepping-stone/test1/]

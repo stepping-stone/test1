@@ -15,7 +15,7 @@
 ``` bash
 curl -v "https://super.user%40stoney-cloud.org:secret@api.example.com/v1/people"
 ```
-> ### JSON Example
+> JSON Example
 
 ``` json
 {
